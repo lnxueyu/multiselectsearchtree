@@ -1,6 +1,7 @@
 {
   "author": "jessica X",
-  "name": "kjvelarde-angular-multiselectsearchtree",
+  "name": "jessicaX-multiselectsearchtree",
+  "version": "0.0.1",
   "description": "Amazing tree list component; bind ready with ability to search, collide selection. Powered by AngularJS",
   "homepage": "https://github.com/lnxueyu",
   "repository": {
@@ -15,14 +16,6 @@
     "angular-mocks": "~1.3.x"
   },
   "keywords": [
-    "angular",
-    "angularjs",
-    "multiselect",
-    "search",
-    "tree",
-    "bind",
-    "hierarchy",
-    "tree"
   ],
   "license": "MIT",
   "_source": "https://github.com/lnxueyu/multiselectsearchtree.git",
