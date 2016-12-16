@@ -4,6 +4,11 @@
   "version": "0.0.1",
   "description": "Amazing tree list component; bind ready with ability to search, collide selection. Powered by AngularJS",
   "homepage": "https://github.com/lnxueyu",
+  "main":[
+      "dist/angular-multi-select-tree-0.0.1.min.css",
+      "angular-multi-select-tree-0.0.1.min.js",
+      "angular-multi-select-tree-0.0.1.tpl.js"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/lnxueyu/multiselectsearchtree"
